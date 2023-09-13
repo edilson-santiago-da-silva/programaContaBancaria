@@ -13,7 +13,7 @@ public class Programa {
 		
 		Conta conta;
 		
-		System.out.println("Insira os Dados para a abertura de contas.");
+		System.out.println("Insira os Dados para a abertura de conta.");
 		System.out.print("Número da conta: ");
 		int NumeroConta = sc.nextInt();
 		System.out.print("Nome do titular: ");
